@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-![Port]([https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg](https://pixabay.com/es/photos/tecnolog%c3%ada-teclado-inform%c3%a1tica-785742/))
 <h1 align="center"> Hola, Mi nombre es martin! 👋 :computer: </h1>
 
 ```js
