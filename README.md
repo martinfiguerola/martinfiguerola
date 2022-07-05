@@ -30,10 +30,8 @@ const martinfiguerola = {
 </div>
 
 
-<h3>Marketplace Ap </h3>
+<h3>Marketplace App </h3>
 ![MarketPlace](https://user-images.githubusercontent.com/81661747/177409690-d24e5118-9010-4734-a6b1-ab7777c3af72.png)
-
-<hr/>
 
 <h2> Countries App </h2>
 
