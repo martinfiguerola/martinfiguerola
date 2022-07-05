@@ -1,23 +1,23 @@
 
-<h1 align="center"> Hola, Mi nombre es martin! :computer: </h1>
+<h1 align="center"> Hola, Mi nombre es Martin! :computer: </h1>
 
 ```js
-const tomas0011 = {
+const martinfiguerola = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-          {Python: ['Django']}
-        ],
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JSW']},
+      ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
+          {JavaScript: ['React', 'Redux']}
+        ],
+      DataBases: [
+           {PotgreSQL, MongoDB}
+      ]  
     },
   Proyects: [
-      {BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {MarketPlace: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
+      {CountryApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', ]}
     ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
-  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
 }
 ```
 
