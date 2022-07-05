@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hola, Mi nombre es martin! 👋 :computer: </h3>
+<h2 align="center"> Hola, Mi nombre es martin! 👋 :computer: </h2>
 
 ```js
 const tomas0011 = {
