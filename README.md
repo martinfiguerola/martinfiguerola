@@ -5,14 +5,16 @@
 const martinfiguerola = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JSW']},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
       ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux']}
+          {JavaScript: ['React', 'Redux', 'Html', 'Css']}
         ],
-      DataBases: [
-           {PotgreSQL, MongoDB}
-      ]  
+      DataBases:[
+        'PotgreSQL', 
+        'MongoDB'
+      ]
+   
     },
   Proyects: [
       {MarketPlace: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
