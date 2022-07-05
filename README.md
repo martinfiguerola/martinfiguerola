@@ -29,11 +29,13 @@ const martinfiguerola = {
 
 </div>
 
+<hr/>
 
-<h3>Marketplace App </h3>
+<h2>Marketplace App : </h2> 
+
 ![Captura de pantalla de 2022-06-12 20-36-30](https://user-images.githubusercontent.com/81661747/177411061-ab89eff7-94a5-410b-9817-20e53ee69313.png)
 
-<h2> Countries App </h2>
+<h2> Countries App : </h2>
 
 ![meCountry](https://user-images.githubusercontent.com/81661747/177409389-54a61a97-123e-4514-8bb2-8c873d7fe81a.png)
 
