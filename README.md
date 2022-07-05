@@ -1,24 +1,22 @@
 
-<h1 align="center"> Hola, Mi nombre es Martin! :computer: </h1>
+<h2 align="center"> Hola, Mi nombre es Martin! :computer: </h2>
 
 ```js
 const martinfiguerola = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JWT']},
       ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux', 'Html', 'Css']}
+          {JavaScript: ['React', 'Redux', 'Html', 'CSS']}
         ],
       DataBases:[
-        'PotgreSQL', 
-        'MongoDB'
+        {'PotgreSQL', 'MongoDB'}
       ]
-   
     },
   Proyects: [
-      {MarketPlace: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {CountryApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', ]}
+      {MarketPlace: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PotgreSQL', 'JWT', 'Nodemailer']},
+      {CountryApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PotgreSQL']}
     ],
 }
 ```
