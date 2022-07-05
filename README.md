@@ -32,7 +32,7 @@ const martinfiguerola = {
 
 <h3>Marketplace Ap </h3>
 
-![btt90s](https://user-images.githubusercontent.com/58223692/95638842-7aec8a00-0a6c-11eb-9643-20296c915a47.png)
+https://github.com/martinfiguerola/martinfiguerola/issues/1#issue-1294722042
 
 <hr/>
 
