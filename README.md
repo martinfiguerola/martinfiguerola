@@ -23,22 +23,21 @@ const martinfiguerola = {
 
 <div>
   <p>
-    Soy una persona a la que le gustan los desafio, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-    Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
+    Soy una persona entusiasta que busca iniciarse en el sector IT, con la capacidad de realizar proyectos web teniendo siempre en mente que sean               escalables y moduralizables para asi poder construir en equipo, conmigo obtendras un desarollador curioso, dispuesto a enseñar y sobre todo 
+    aprender de los demás 
   </p>
-  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
+
 </div>
 
 
 <h3>Marketplace Ap </h3>
-
-![meCountry](https://user-images.githubusercontent.com/81661747/177409389-54a61a97-123e-4514-8bb2-8c873d7fe81a.png)
+![MarketPlace](https://user-images.githubusercontent.com/81661747/177409690-d24e5118-9010-4734-a6b1-ab7777c3af72.png)
 
 <hr/>
 
 <h2> Countries App </h2>
 
-![C](https://user-images.githubusercontent.com/58223692/95639279-3661ee00-0a6e-11eb-9976-7d597696652d.png)
+![meCountry](https://user-images.githubusercontent.com/81661747/177409389-54a61a97-123e-4514-8bb2-8c873d7fe81a.png)
 
 
 <hr/>
@@ -50,9 +49,6 @@ const martinfiguerola = {
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
     
-    <a href="https://github.com/martinfiguerola">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
-    </a>
 <p/>
 
 <hr/>
