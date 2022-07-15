@@ -54,32 +54,21 @@ const martinfiguerola = {
 
 <hr/>
 
-<h2> Me podes contactar en: </h2>
-<p>
-    <a href="https://www.linkedin.com/in/tomasbvasquez/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
-    </a>
-   
-    <a href="https://www.linkedin.com/in/tomasbvasquez/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
-    </a>
-<p/>
+<h3 align="center">Me podes contactar en </h3>
+
+<p align="center">
+  <a href="mailto: germanchrystan@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Germán Chrystan`s E-mail" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/germ%C3%A1n-chrystan/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Germán Chrystan`s LinkedIn Profile" height="30" width="30">
+  </a>
+
+</p>
 
 
 
 <hr/>
 
-<!--
-**martinfiguerola/martinfiguerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
