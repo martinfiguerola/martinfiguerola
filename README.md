@@ -60,12 +60,11 @@ const martinfiguerola = {
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
    
-    <a href="mailto: germanchrystan@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Germán Chrystan`s E-mail" height="30" width="30">
-  </a>
+    <a href="https://www.linkedin.com/in/tomasbvasquez/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
 <p/>
 
-<hr/>
 
 
 <hr/>
