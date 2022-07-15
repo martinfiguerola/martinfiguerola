@@ -57,7 +57,7 @@ const martinfiguerola = {
 <h3 align="center">Me podes contactar en </h3>
 
 <p align="center">
-  <a href="mail: fedefiguerola@gmail.com">
+  <a href="mailto: fedefiguerola@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Martin Figuerola E-mail" height="30" width="30">
   </a>
 
