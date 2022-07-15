@@ -63,9 +63,6 @@ const martinfiguerola = {
     <a href="https://www.linkedin.com/in/martin-figuerola/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-    <a href="https://twitter.com/figuerolamart1n">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
-    </a>
 </p>
 
 
