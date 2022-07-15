@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hola👋, Soy Martin Figuerola</h1>
+<h1 align="center"> ¡Hola👋, Soy Martin!</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 ```js
@@ -57,13 +57,18 @@ const martinfiguerola = {
 <h3 align="center">Me podes contactar en </h3>
 
 <p align="center">
-  <a href="mailto: fedefiguerola@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Martin Figuerola E-mail" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/martin-figuerola/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Germán Chrystan`s LinkedIn Profile" height="25" width="25">
-  </a>
+  <a href="https://www.linkedin.com/in/tomasbvasquez/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.codewars.com/users/tomas0011">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" />
+    </a>
+    <a href="https://twitter.com/benjamin_gnr">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
+    </a>
+    <a href="https://github.com/tomas0011">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+    </a>
 
 </p>
 
