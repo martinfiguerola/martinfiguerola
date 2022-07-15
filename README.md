@@ -40,26 +40,33 @@ const martinfiguerola = {
 </table>
 <hr>
 
-  <h2> Mis Proyectos</h2>
+<h2> Mis proyectos</h2>
   
 <h3>Marketplace App : </h3> 
 
 ![Captura de pantalla de 2022-06-12 20-36-30](https://user-images.githubusercontent.com/81661747/177411061-ab89eff7-94a5-410b-9817-20e53ee69313.png)
 
+<hr/>
+
 <h3> Countries App : </h3>
 
 ![meCountry](https://user-images.githubusercontent.com/81661747/177409389-54a61a97-123e-4514-8bb2-8c873d7fe81a.png)
-
 
 <hr/>
 
 <h2> Me podes contactar en: </h2>
 <p>
-    <a href="https://www.linkedin.com/in/martinfiguerola/">
+    <a href="https://www.linkedin.com/in/tomasbvasquez/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-    
+   
+    <a href="https://twitter.com/benjamin_gnr">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
+    </a>
 <p/>
+
+<hr/>
+
 
 <hr/>
 
