@@ -61,8 +61,8 @@ const martinfiguerola = {
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Martin Figuerola E-mail" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/germ%C3%A1n-chrystan/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Germán Chrystan`s LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/martin-figuerola/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Germán Chrystan`s LinkedIn Profile" height="25" width="25">
   </a>
 
 </p>
