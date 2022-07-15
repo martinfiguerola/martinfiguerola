@@ -58,7 +58,7 @@ const martinfiguerola = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomasbvasquez/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
     </a>
     <a href="https://www.codewars.com/users/tomas0011">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" />
