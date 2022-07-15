@@ -41,14 +41,8 @@ const martinfiguerola = {
 <hr>
 
 <div>
-  <p>
-    Soy una persona entusiasta que busca iniciarse en el sector IT, con la capacidad de realizar proyectos web teniendo siempre en mente que sean               escalables y moduralizables para asi poder construir en equipo, conmigo obtendras un desarollador curioso, dispuesto a enseñar y sobre todo 
-    aprender de los demás 
-  </p>
-
+  <h2> Mis Proyectos:</h2>
 </div>
-
-<hr/>
 
 <h2>Marketplace App : </h2> 
 
