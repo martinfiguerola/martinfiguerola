@@ -54,7 +54,7 @@ const martinfiguerola = {
 
 <hr/>
 
-<h3 align="center">Me podes contactar en </h3>
+<h2 align="center">Me podes contactar en </h2>
 
 <p align="center">
   <a href="mailto: fedefiguerola@gmail.com">
