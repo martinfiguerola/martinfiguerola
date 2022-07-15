@@ -1,5 +1,5 @@
 
-<h1 align="center"> !Hola👋, Soy Martin Figuerola!</h1>
+<h1 align="center"> Hola👋, Soy Martin Figuerola</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 ```js
