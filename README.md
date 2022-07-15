@@ -40,7 +40,7 @@ const martinfiguerola = {
 </table>
 <hr>
 
-  <h2> Mis Proyectos:</h2>
+  <h2> Mis Proyectos</h2>
   
 <h3>Marketplace App : </h3> 
 
