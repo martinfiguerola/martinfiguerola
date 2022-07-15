@@ -1,6 +1,6 @@
 
 <h1 align="center"> ¡Hola👋, Soy Martin!</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">Un desarrollador backend apasionado de Argentina</h3>
 
 ```js
 const martinfiguerola = {
