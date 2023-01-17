@@ -6,18 +6,20 @@
 const martinfiguerola = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JWT']},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Mongoose']},
+          {Java: Intermedio}
       ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux', 'Html', 'CSS']}
+          {JavaScript: ['React', 'Redux', 'Html', 'CSS', 'Angular',]}
         ],
       DataBases:[
-        {'PotgreSQL', 'MongoDB'}
+        {'PotgreSQL', 'MongoDB', MySQL}
       ]
     },
   Proyects: [
       {MarketPlace: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PotgreSQL', 'JWT', 'Nodemailer']},
-      {CountryApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PotgreSQL']}
+      {CountryApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PotgreSQL']},
+      {AlkyBank: ['NodeJs', 'Express', 'Sequelize-Cli', 'MySQL']},
     ],
 }
 ```
