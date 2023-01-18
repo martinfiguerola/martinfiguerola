@@ -12,7 +12,7 @@ const martinfiguerola = {
           {JavaScript: ['React', 'Redux', 'Html', 'CSS', 'Angular',]}
         ],
       DataBases:[
-        {'PotgreSQL', 'MongoDB', MySQL}
+        {'PotgreSQL', 'MongoDB', 'MySQL'}
       ]
     },
   Proyects: [
