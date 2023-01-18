@@ -1,5 +1,4 @@
 
-<h1 align="center"> ¡Hi👋, I'm martin!</h1>
 
 ```js
 const martinfiguerola = {
