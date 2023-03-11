@@ -22,23 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinfiguerola&" alt="martinfiguerola" /></p>
 
 <hr>
-<h3 align="center">What I use</h3>
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-       <br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
 
 <h2> Mis proyectos</h2>
   
@@ -54,19 +37,6 @@
 
 <hr/>
 
-<h2 align="center">Me podes contactar en: </h2>
 
-<p align="center">
-  <a href="mailto: fedefiguerola@gmail.com">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/martin-figuerola/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-    </a>
-</p>
-
-
-
-<hr/>
 
 
