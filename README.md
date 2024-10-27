@@ -5,7 +5,7 @@
 I'm a curious and proactive person, I enjoy working collaboratively in search of a challenge in which I can grow day by day and contribute my knowledge. I am passionate about the opportunities that new technologies offer to everyday life.
 
 
-- 📚 I’m currently learning **Kotlin 
+- 📚 I’m currently learning *Kotlin* 
 
 ### Languages and Tools:
 
