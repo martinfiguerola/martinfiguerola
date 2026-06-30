@@ -1,11 +1,13 @@
-# Hi I'm Martin Figuerola 👋
+# Hi, I'm Martin Figuerola 👋
 
 #### Backend Java Developer | Spring Boot · SQL · Docker
 
-I'm a curious and proactive person, I enjoy working collaboratively in search of a challenge in which I can grow day by day and contribute my knowledge. I am passionate about the opportunities that new technologies offer to everyday life.
+Self-taught backend developer based in Sicily, Italy. I studied software development at SoyHenry and have spent the past year deepening my Java and Spring Boot skills on my own, building a fully deployed REST API from scratch. Currently looking for my first opportunity as a Backend Developer in Italy.
 
+- 🚀 Featured project: [task-manager-api](https://github.com/martinfiguerola/task-manager-api) — REST API with JWT auth, MySQL/PostgreSQL, Docker and CI/CD
 - 🔭 Currently building backend APIs with Java, Spring Boot and PostgreSQL
 - 🌱 Familiar with JavaScript, Node.js and React
+- 📍 Based in Sicily, Italy — open to remote and on-site backend roles
 
 ### Languages and Tools:
 <div align="center">
@@ -21,6 +23,16 @@ I'm a curious and proactive person, I enjoy working collaboratively in search of
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+### GitHub Stats:
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=martinfiguerola&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinfiguerola&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 <h3 align="left">Connect with me:</h3>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
