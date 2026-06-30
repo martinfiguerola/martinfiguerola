@@ -24,12 +24,6 @@ Self-taught backend developer based in Sicily, Italy. I studied software develop
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=martinfiguerola&show_icons=true&theme=dark&hide_border=true" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinfiguerola&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
