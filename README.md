@@ -1,11 +1,11 @@
 # Hi I'm Martin Figuerola 👋
 
-#### Full-Stack Web Developer
+#### Backend Java Developer | Spring Boot · SQL · Docker
 
 I'm a curious and proactive person, I enjoy working collaboratively in search of a challenge in which I can grow day by day and contribute my knowledge. I am passionate about the opportunities that new technologies offer to everyday life.
 
-
-- 📚 I’m currently learning *Kotlin* 
+- 🔭 Currently building backend APIs with Java, Spring Boot and PostgreSQL
+- 🌱 Familiar with JavaScript, Node.js and React
 
 ### Languages and Tools:
 
