@@ -7,7 +7,7 @@ Self-taught backend developer based in Sicily, Italy. I studied software develop
 - 🚀 Featured project: [task-manager-api](https://github.com/martinfiguerola/task-manager-api) — REST API with JWT auth, MySQL/PostgreSQL, Docker and CI/CD
 - 🔭 Currently building backend APIs with Java, Spring Boot and PostgreSQL
 - 🌱 Familiar with JavaScript, Node.js and React
-- 📍 Based in Sicily, Italy — open to remote and on-site backend roles
+- 📍 Based in Sicily, Italy — open to remote and on-site roles worldwide
 
 ### Languages and Tools:
 <div align="center">
@@ -34,9 +34,6 @@ Self-taught backend developer based in Sicily, Italy. I studied software develop
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<h3 align="left">Connect with me:</h3>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 
 
 
