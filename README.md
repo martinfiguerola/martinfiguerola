@@ -1,6 +1,6 @@
 # Hi, I'm Martin Figuerola 👋
 
-**Junior Backend Java Developer | Spring Boot 3 · REST APIs · Docker**
+**Junior Backend Java Developer | Spring Boot · REST APIs · Docker**
 
 Self-taught backend developer based in Sicily, Italy. I studied software development at SoyHenry and have spent the past few years deepening my Java and Spring Boot skills on my own, building several fully deployed REST APIs from scratch. Currently looking for my first opportunity as a Junior Backend Developer in Italy.
 
