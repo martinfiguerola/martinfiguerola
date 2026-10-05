@@ -1,13 +1,13 @@
 # Hi, I'm Martin Figuerola 👋
 
-**Junior Backend Java Developer | Spring Boot · REST APIs · Docker**
+**Java Backend Developer | Spring Boot · REST APIs · Docker**
 
-Self-taught backend developer based in Sicily, Italy. I studied software development at SoyHenry and have spent the past few years deepening my Java and Spring Boot skills on my own, building several fully deployed REST APIs from scratch. Currently looking for my first opportunity as a Junior Backend Developer in Italy.
+Backend developer based in Sicily, Italy, with professional experience on Java/Spring Boot microservices in production. Since 2025 I've been building and deploying complete REST APIs with Spring Security, JWT, testing, Docker and CI/CD.
 
-- 🚀 Featured project: [task-manager-api](https://github.com/martinfiguerola/task-manager-api) — REST API with JWT auth, MySQL/PostgreSQL, Docker and CI/CD
+- 🚀 Featured project: [task-manager-api](https://github.com/martinfiguerola/task-manager-api) — REST API with JWT auth, PostgreSQL, Docker and CI/CD, deployed on Railway
 - 🛠️ Also built: [company-management-api](https://github.com/martinfiguerola/company-management-api) — JPA relationships, DTOs, SOLID principles
-- 📚 Practicing daily with Spring Boot, JPA and algorithm problem-solving
-- 📍 Based in Sicily, Italy — open to remote and on-site roles
+- 📚 Currently practicing Spring Boot, SQL and algorithm problem-solving
+- 📍 Based in Sicily, Italy — open to relocation anywhere in Italy, remote, hybrid or on-site
 
 ## Languages and Tools
 
